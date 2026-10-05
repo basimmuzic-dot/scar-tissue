@@ -6,6 +6,8 @@ Design documents for **Scar Tissue**, a 3D first-person survival horror game in 
 
 This repository holds design documents only. There is no playable build yet.
 
+**Taking over this project? Start with `HANDOFF.md`.**
+
 ## Reading order
 1. `GDD.md`: pitch, psychology framing, core loop, injury system
 2. `STORY.md`: backstory, characters, six wards, three endings
